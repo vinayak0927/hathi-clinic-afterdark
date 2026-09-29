@@ -1,0 +1,6 @@
+{
+  "name": "Hathi Clinic & Afterdark",
+  "description": "24/7 next-generation healthcare platform led by Dr. Hansraj Hathi featuring Patient & Doctor portals, 3D anatomy biomonitoring, and AI health triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
